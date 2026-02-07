@@ -24,4 +24,4 @@ This project was developed for learning and academic purposes and is not intende
 - Learned how to implement SQLite with CRUD operations and integrate it with app UI  
 
 👩‍💻 **Developer**  
-Tika Matsiashvili  
+Tika M
